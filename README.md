@@ -50,7 +50,7 @@ The maze is represented as a grid with specific constraints assigned to differen
 - START_MARK (5): Marks the starting position of the solver in the maze. The solver initiates its search from this point and navigates through the maze to reach the exit.
 
 ### Initial Maze
-This is the maze from the text file included in the porject: 'maze2024.txt'. 
+This is the maze from the text file included in the project: 'maze2024.txt'. 
 ```bash
 [[1 1 1 0 0 0 0 0 0 1]
  [1 0 5 1 1 1 1 1 0 1]
